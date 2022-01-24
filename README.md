@@ -1,5 +1,6 @@
 <h1>Hey there, I'm <a  href="https://github.com/francescocori">Francesco Coriolano </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+
 ## I'm a Frontend Developer!!
 
 - 🔭 I just complete my Coding Bootcamp at Wild Code School in Lisbon!!
@@ -10,7 +11,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  ⬅️  Linkedin
+ <div>
+    <a  href="https://www.linkedin.com/in/francesco-coriolano/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a  href="mailto:francesco.coriolano@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+    </a>
+ <div>
 
 <br />
 
