@@ -24,12 +24,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/github.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+ <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+ <img src="https://img.icons8.com/color/48/000000/postman.png"/>
 
 <br />
 
