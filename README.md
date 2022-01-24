@@ -25,6 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/>
+ <img height="48" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" />
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
