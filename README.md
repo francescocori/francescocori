@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🌐 I’m looking to starting my professional journey into the ever changing digital world.
 - 🥅 2022 Goals: Create awesome digital innovation projects!
-- ⚡ Fuvourite quote: The only impossible journey is the one you never begin!
+- ⚡ Favourite quote: The only impossible journey is the one you never begin!
 
 ### Connect with me:
 
