@@ -9,8 +9,8 @@
 - ⚡ Fuvourite quote: The only impossible journey is the one you never begin!
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] Linkedin ➡️
+Linkedin ➡️
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
 <br />
 
