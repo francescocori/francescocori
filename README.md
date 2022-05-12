@@ -4,18 +4,17 @@
 ## I'm a Frontend Developer!!
 
 - 🔭 I just complete my Coding Bootcamp at Wild Code School in Lisbon!!
-- 🌱 I’m currently learning everything 🤣
 - 🌐 I’m looking to starting my professional journey into the ever changing digital world.
 - 🥅 2022 Goals: Create awesome digital innovation projects!
 - ⚡ Favourite quote: The only impossible journey is the one you never begin!
 
 
 ### My Projects
-1.  Weather App
+1.  Weather App ☀️ ⛅️
     * [Repository](https://github.com/francescocori/weather-app) and [Deployment](https://fra-weather-app.netlify.app/)
-2.  Quiz App
+2.  Quiz App 📝 ❓
     * [Repository](https://github.com/francescocori/fra-quiz-app) and [Deployment](https://francescocori.github.io/fra-quiz-app/)
-3.  Tic Tac Toe Game
+3.  Tic Tac Toe Game ❌ ⭕️
     * [Repository](https://github.com/francescocori/tic-tac-toe-f) and [Deployment](https://francescocori.github.io/tic-tac-toe-f/)
 
 ### Connect with me:
