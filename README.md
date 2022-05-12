@@ -12,7 +12,7 @@
 ### My Projects
 1.  Weather App ☀️ ⛅️
     * [Repository](https://github.com/francescocori/weather-app) and [Deployment](https://fra-weather-app.netlify.app/)
-2.  Quiz App 📝 ❓
+2.  Quiz App 📝 
     * [Repository](https://github.com/francescocori/fra-quiz-app) and [Deployment](https://francescocori.github.io/fra-quiz-app/)
 3.  Tic Tac Toe Game ❌ ⭕️
     * [Repository](https://github.com/francescocori/tic-tac-toe-f) and [Deployment](https://francescocori.github.io/tic-tac-toe-f/)
