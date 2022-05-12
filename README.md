@@ -3,8 +3,8 @@
 
 ## I'm a Frontend Developer!!
 
-- 🔭 I just complete my Coding Bootcamp at Wild Code School in Lisbon!!
-- 🌐 I’m looking to starting my professional journey into the ever changing digital world.
+- 🔭 I just complete a Coding Bootcamp at Wild Code School in Lisbon!!
+- 🌐 I’m looking to start my professional journey into the ever changing digital world.
 - 🥅 2022 Goals: Create awesome digital innovation projects!
 - ⚡ Favourite quote: The only impossible journey is the one you never begin!
 
