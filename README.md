@@ -16,7 +16,8 @@
     * [Repository](https://github.com/francescocori/fra-quiz-app) and [Deployment](https://francescocori.github.io/fra-quiz-app/)
 3.  Tic Tac Toe Game ❌ ⭕️
     * [Repository](https://github.com/francescocori/tic-tac-toe-f) and [Deployment](https://francescocori.github.io/tic-tac-toe-f/)
-
+4.  Tenzies Game 
+    * [Repository](https://github.com/francescocori/tenzies) and [Deployment](http://francescocori.github.io/tenzies)
 ### Connect with me:
 
  <div>
