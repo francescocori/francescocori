@@ -3,7 +3,7 @@
 
 ## I'm a Frontend Developer!!
 
-- 🔭 I just complete a Coding Bootcamp at Wild Code School in Lisbon!!
+- 🔭 I just complete a 700+ hours Full Stack Web Development Programming Bootcamp at Wild Code School in Lisbon!!
 - 🌐 I’m looking to start my professional journey into the ever changing digital world.
 - 🥅 2022 Goals: Create awesome digital innovation projects!
 - ⚡ Favourite quote: The only impossible journey is the one you never begin!
