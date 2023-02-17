@@ -3,6 +3,8 @@
 
 ## I'm a Frontend Developer!!
 
+I am a Frontend developer with industry experience building websites and web applications. I specialize in React/JavaScript and have professional experience working with Next Js node.js, and React ( which at the moment is my favorite framework ). As a Frontend developer, of course, I have a solid knowledge of the obvious skills like HTML, CSS/SCSS. Furthermore, I’m not afraid of learning new technologies as I believe that being a continuous learner should be in every developer's DNA.
+
 ### My Projects
 1.  Restaurant Website 
     * [Repository](https://github.com/francescocori/restaurant-website) and [Deployment](https://foodiemania.netlify.app/)
