@@ -20,8 +20,7 @@
     * [Repository](https://github.com/francescocori/tic-tac-toe-f) and [Deployment](https://francescocori.github.io/tic-tac-toe-f/)
 5.  Tenzies Game 
     * [Repository](https://github.com/francescocori/tenzies) and [Deployment](http://francescocori.github.io/tenzies)
-6.  Restaurant Website 
-    * [Repository](https://github.com/francescocori/restaurant-website) and [Deployment](https://foodiemania.netlify.app/)
+
 ### Connect with me:
 
  <div>
