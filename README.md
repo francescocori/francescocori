@@ -5,13 +5,11 @@ I am a Frontend developer with industry experience building websites and web app
 ### My Projects
 1.  Restaurant Website 
     * [Repository](https://github.com/francescocori/restaurant-website) and [Deployment](https://foodiemania.netlify.app/)
-2.  Weather App ☀️ ⛅️
-    * [Repository](https://github.com/francescocori/weather-app) and [Deployment](https://fra-weather-app.netlify.app/)
-3.  Quiz App 📝 
+2.  Quiz App 📝 
     * [Repository](https://github.com/francescocori/fra-quiz-app) and [Deployment](https://francescocori.github.io/fra-quiz-app/)
-4.  Tic Tac Toe Game ❌ ⭕️
+3.  Tic Tac Toe Game ❌ ⭕️
     * [Repository](https://github.com/francescocori/tic-tac-toe-f) and [Deployment](https://francescocori.github.io/tic-tac-toe-f/)
-5.  Tenzies Game 
+4.  Tenzies Game 
     * [Repository](https://github.com/francescocori/tenzies) and [Deployment](http://francescocori.github.io/tenzies)
 
 ### Connect with me:
